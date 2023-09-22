@@ -1,66 +1,12 @@
-## Foundry
+## ♄ 🝡🝟 ☉
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+<blockquote>
+"The World hath been much abused by the Opinion of Making of Gold: The Worke it
+selfe I judge to be possible; But the Meanes to effect it, are, in the Practice,
+full of Errour and Imposture; And in the Theory, full of unsound Imaginations."
+</blockquote>
+<cite>— Francis Bacon, 1627</cite>
 
-Foundry consists of:
+## Deployments
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+- Mainnet: [`0x00000000001a9C5723d08a79907288d556d37a95`](https://etherscan.io/address/0x00000000001a9C5723d08a79907288d556d37a95)
