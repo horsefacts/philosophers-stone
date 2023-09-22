@@ -4,3 +4,6 @@
 [submodule "lib/curta"]
 	path = lib/curta
 	url = https://github.com/waterfall-mkt/curta
+[submodule "lib/solady"]
+	path = lib/solady
+	url = https://github.com/Vectorized/solady
