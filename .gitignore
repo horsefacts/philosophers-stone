@@ -12,3 +12,6 @@ docs/
 
 # Dotenv file
 .env
+
+/miner/target
+/bundler/node_modules
